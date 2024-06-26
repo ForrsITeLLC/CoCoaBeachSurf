@@ -1,7 +1,11 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Bluechip Development\\CoCoaBeachSurf\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|CoCoBeachSurf_Dev||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +13,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,6 +26,18 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CoCoBeachSurf_Dev",
+              "DocumentMoniker": "C:\\Bluechip Development\\CoCoaBeachSurf\\CoCoBeachSurf_Dev\\CoCoBeachSurf_Dev.csproj",
+              "RelativeDocumentMoniker": "CoCoBeachSurf_Dev\\CoCoBeachSurf_Dev.csproj",
+              "ToolTip": "C:\\Bluechip Development\\CoCoaBeachSurf\\CoCoBeachSurf_Dev\\CoCoBeachSurf_Dev.csproj*",
+              "RelativeToolTip": "CoCoBeachSurf_Dev\\CoCoBeachSurf_Dev.csproj*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-25T13:08:38.498Z",
+              "EditorCaption": ""
             }
           ]
         }
